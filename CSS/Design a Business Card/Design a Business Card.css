@@ -1,0 +1,21 @@
+body{
+background-color:rosybrown; 
+font-family:Arial,sans-serif;
+text-align: center;
+}
+
+.card{
+    width: 400px;
+    height: 800px;
+    background-color: aliceblue;
+    margin-left: 38%;
+    margin-top: 200px;
+
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    margin-top:50px;
+    
+}
